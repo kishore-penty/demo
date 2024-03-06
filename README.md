@@ -1,4 +1,3 @@
-# Deel Technical DevOps challenge
 
 Write a web application in any language that prints the
 origin public IP of any request it receives in reverse:
