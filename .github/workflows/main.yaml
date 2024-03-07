@@ -41,5 +41,4 @@ jobs:
           
       - name: Deploy to Kubernetes
         run: |
-         kubectl apply -f helm/templates/service.yaml 
          kubectl apply -f helm/templates/deployment.yaml --validate=false
